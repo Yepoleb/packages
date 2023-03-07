@@ -1060,6 +1060,10 @@
   },
   {
     "name": "nimrod-glfw",
+    "alias": "nimrod_glfw"
+  },
+  {
+    "name": "nimrod_glfw",
     "url": "https://github.com/rafaelvasco/nimrod-glfw/",
     "method": "git",
     "tags": [
