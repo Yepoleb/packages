@@ -1,6 +1,7 @@
 #!/bin/bash
 
 set -e
+set -x
 
 targetRepository="https://github.com/$GITHUB_REPOSITORY"
 targetBranch="$GITHUB_BASE_REF"
